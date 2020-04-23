@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<iostream>
 
 using namespace std;
 
@@ -8,7 +8,10 @@ int main()
     long int a,b,sum,i=0;
     cin>>t;
     siz=t;
-    int final[t]={0};
+    int final[t];
+    for(int i=0;i<t;i++){
+        final[i]=0;
+    }
     while(siz--)
     {
         cin>>a>>b;
