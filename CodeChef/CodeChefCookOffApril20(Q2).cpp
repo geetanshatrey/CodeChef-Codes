@@ -1,4 +1,4 @@
-//Link to the problem: https://www.codechef.com/LTIME83B/problems/SHUFFLE
+//Link to the problem: https://www.codechef.com/COOK117B/problems/MATBREAK
 
 #include<iostream>
 #include<cmath>
