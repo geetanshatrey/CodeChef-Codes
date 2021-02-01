@@ -1,4 +1,5 @@
 //Link to the problem: https://www.hackerrank.com/challenges/vector-sort/problem
+// Time Complexity ; O(NlogN)
 
 #include<bits/stdc++.h>
 
