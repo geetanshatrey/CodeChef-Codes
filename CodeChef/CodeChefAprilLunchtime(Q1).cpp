@@ -1,4 +1,5 @@
 //Link to the problem: https://www.codechef.com/LTIME83B/problems/FFL
+// Time Complexity : O(N^2)
 
 #include<iostream>
 
